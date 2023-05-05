@@ -1,0 +1,62 @@
+.header-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-top1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-between{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.navbarCustom{
+    background-color: rgb(189, 194, 192);
+    color: white;
+}
+.submitProduct{
+list-style: none;
+display: flex;
+justify-content: center;
+    text-align: center;
+}
+.check ul{
+    list-style: none;
+display: flex;
+justify-content: center;
+    text-align: center;
+}
+.submitProductInside{
+    list-style: none;
+}
+.icon-bar{
+    background: black
+}
+.navbarImage{
+    background-image: url(./navbar.svg);
+}
+.underlineR{
+    text-decoration: none;
+}
+.checker{
+    
+    justify-content: space-between;
+    
+}
+.checker-border{
+    border-radius: 15px;
+}
+
+.borderWhite{
+    border: 1px solid white;
+    border-radius: 11px;
+}
+
+.borderWhite:hover{
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
