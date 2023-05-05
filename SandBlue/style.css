@@ -1,0 +1,51 @@
+.bgPink{
+    background-color: pink;
+}
+.centerDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mL{
+    margin-left: 35px;
+}
+.mT{
+    margin-top: 105px;
+}
+.fSize{
+    font-size: 51px;
+}
+.bgPurple{
+    background-color: rgba(153, 119, 185, 0.37);
+}
+.lSize{
+    width: 76%;
+}
+.textDeco
+{
+    text-decoration: none;
+    color: black;
+}
+.spaceBetween{
+    display: flex;
+    justify-content: space-between;
+}
+.logowidth{
+    width: 26px;
+}
+.CEO_Width{
+    width: 150px;
+}
+.mB{
+    margin-bottom: 105px;
+}
+.mTop{
+    margin-top: 115px;
+}
+.mTB{
+    margin: 110px 0px;
+}
+.mLR{
+    padding-left: 100px;
+    padding-right: 100px;
+}
